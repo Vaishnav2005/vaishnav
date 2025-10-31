@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Imagen AI Studio",
+  "description": "A modern web application that leverages the Gemini API with the 'imagen-4.0-generate-001' model to generate high-quality images from text prompts. Users can specify aspect ratios for tailored image creation.",
+  "requestFramePermissions": []
+}
